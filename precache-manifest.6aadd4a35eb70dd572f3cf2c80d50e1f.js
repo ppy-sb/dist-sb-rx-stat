@@ -1000,7 +1000,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/flags/zw.svg"
   },
   {
-    "revision": "8efb313d2f53e18a775b",
+    "revision": "c4206ccc523338092f80",
     "url": "css/app.7ee52ccf.css"
   },
   {
@@ -1124,12 +1124,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/theme/team-4-800x800.jpg"
   },
   {
-    "revision": "6419d3cc1bc1245f9dea9205937b4652",
+    "revision": "ec97bc1e11ff04f203cbb81bf6c138ae",
     "url": "index.html"
   },
   {
-    "revision": "8efb313d2f53e18a775b",
-    "url": "js/app.ab12ebf6.js"
+    "revision": "c4206ccc523338092f80",
+    "url": "js/app.cf98879c.js"
   },
   {
     "revision": "7e2983d02fdf7c7c9e12",
