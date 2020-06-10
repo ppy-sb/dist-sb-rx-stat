@@ -1267,7 +1267,7 @@ function(Osu, setPlayerActions, SliderMesh, ScoreOverlay, VolumeMenu, LoadingMen
                     this.pause = function(){};
                     this.scoreOverlay.visible = false;
                     if (!window.game.previewMode) this.scoreOverlay.showSummary(this.track.metadata, this.errorMeter.record, this.retry, this.quit);
-                    else this.scoreOverlay.showReload(this.retry);
+                    else this.scoreOverlay.showRestart(this.retry);
                 }
                 self.background.tint = 0xffffff;
             }

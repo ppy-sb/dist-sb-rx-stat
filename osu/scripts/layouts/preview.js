@@ -28,7 +28,7 @@ xhr.open("GET", url);
 // create download progress bar
 const title = html`<div class="title">${sid}</div>`
 const progresses = ["script", "skin", 'sound'].map(p => html`
-<div class="progress" id="${p}-progress">
+<div class= id="${p}-progress">
     ${p.toUpperCase()}
     <div class="lds-dual-ring"></div>
 </div>`)
@@ -46,6 +46,8 @@ statuslines.appendChild(bar)
 // async part
 function start() {
     function f() {
+        window.game.backgroundDimRate = 50 / 100;
+        window.game.backgroundBlurRate = 5 / 100;
         window.game.autoplay = true;
         window.game.masterVolume = 10 / 100;
         window.game.previewMode = true;
@@ -58,10 +60,10 @@ function start() {
         // }
         // wtf();
         window.removeEventListener("click", f);
-        document.getElementById("hint").innerText = "如果谱面预览未开始，可能谱包或数据有错。";
+        // document.getElementById("hint").innerText = "Data may corrupted if playback failed";
     };
     window.addEventListener("click", f);
-    document.getElementById("hint").innerText = "点击任意处以开始";
+    document.getElementById("hint").innerText = "Click to START";
 }
 xhr.onload = function () {
     window.oszblob = new Blob([xhr.response]);
