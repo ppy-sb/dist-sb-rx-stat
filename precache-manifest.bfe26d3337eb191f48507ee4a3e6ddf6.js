@@ -1588,7 +1588,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "osu/new.html"
   },
   {
-    "revision": "8e50464717fe8aca771469e7fa7617cc",
+    "revision": "17abc78dbc67afc06a266d75d54556c6",
     "url": "osu/preview.html"
   },
   {
