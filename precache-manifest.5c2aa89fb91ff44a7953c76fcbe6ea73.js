@@ -1168,146 +1168,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "manifest.json"
   },
   {
-    "revision": "6aaf9610f5550fe4c87b07da5612cbca",
-    "url": "osu/.git/FETCH_HEAD"
-  },
-  {
-    "revision": "4cf2d64e44205fe628ddd534e1151b58",
-    "url": "osu/.git/HEAD"
-  },
-  {
-    "revision": "ca1b7af02398b802c8d7d7de64d056fc",
-    "url": "osu/.git/config"
-  },
-  {
-    "revision": "a0a7c3fff21f2aea3cfa1d0316dd816c",
-    "url": "osu/.git/description"
-  },
-  {
-    "revision": "ce562e08d8098926a3862fc6e7905199",
-    "url": "osu/.git/hooks/applypatch-msg.sample"
-  },
-  {
-    "revision": "579a3c1e12a1e74a98169175fb913012",
-    "url": "osu/.git/hooks/commit-msg.sample"
-  },
-  {
-    "revision": "ecbb0cb5ffb7d773cd5b2407b210cc3b",
-    "url": "osu/.git/hooks/fsmonitor-watchman.sample"
-  },
-  {
-    "revision": "2b7ea5cee3c49ff53d41e00785eb974c",
-    "url": "osu/.git/hooks/post-update.sample"
-  },
-  {
-    "revision": "054f9ffb8bfe04a599751cc757226dda",
-    "url": "osu/.git/hooks/pre-applypatch.sample"
-  },
-  {
-    "revision": "e4db8c12ee125a8a085907b757359ef0",
-    "url": "osu/.git/hooks/pre-commit.sample"
-  },
-  {
-    "revision": "3c5989301dd4b949dfa1f43738a22819",
-    "url": "osu/.git/hooks/pre-push.sample"
-  },
-  {
-    "revision": "56e45f2bcbc8226d2b4200f7c46371bf",
-    "url": "osu/.git/hooks/pre-rebase.sample"
-  },
-  {
-    "revision": "2ad18ec82c20af7b5926ed9cea6aeedd",
-    "url": "osu/.git/hooks/pre-receive.sample"
-  },
-  {
-    "revision": "2b5c047bdb474555e1787db32b2d2fc5",
-    "url": "osu/.git/hooks/prepare-commit-msg.sample"
-  },
-  {
-    "revision": "517f14b9239689dff8bda3022ebd9004",
-    "url": "osu/.git/hooks/update.sample"
-  },
-  {
-    "revision": "fc83b1029e03a1896299ffda17985d5a",
-    "url": "osu/.git/index"
-  },
-  {
-    "revision": "036208b4a1ab4a235d75c181e685e5a3",
-    "url": "osu/.git/info/exclude"
-  },
-  {
-    "revision": "df29fb87e310e09e90a043cafa7050bc",
-    "url": "osu/.git/logs/HEAD"
-  },
-  {
-    "revision": "df29fb87e310e09e90a043cafa7050bc",
-    "url": "osu/.git/logs/refs/heads/master"
-  },
-  {
-    "revision": "df29fb87e310e09e90a043cafa7050bc",
-    "url": "osu/.git/logs/refs/remotes/origin/HEAD"
-  },
-  {
-    "revision": "3d83b1f80672f81b5d4f85034f880505",
-    "url": "osu/.git/logs/refs/remotes/upstream/iamapig120-master"
-  },
-  {
-    "revision": "eb965bfa5c0b6eacac1c0c1ba8df2da1",
-    "url": "osu/.git/logs/refs/remotes/upstream/korean"
-  },
-  {
-    "revision": "d06a796b7173e518137156dea98cfd92",
-    "url": "osu/.git/logs/refs/remotes/upstream/legacy"
-  },
-  {
-    "revision": "eca42b2d13c9e583cbb3545d228283e6",
-    "url": "osu/.git/logs/refs/remotes/upstream/master"
-  },
-  {
-    "revision": "14e32de7a8bf95a3819ff002804cb86f",
-    "url": "osu/.git/objects/pack/pack-f6b9f4a06eb2256a339d9cd69488cff049a6cf4e.idx"
-  },
-  {
-    "revision": "bbc95560ff9dc635b602ddf7f7fafcae",
-    "url": "osu/.git/objects/pack/pack-f6b9f4a06eb2256a339d9cd69488cff049a6cf4e.pack"
-  },
-  {
-    "revision": "4f35fea7c5631aa8934271f0c3dee04f",
-    "url": "osu/.git/packed-refs"
-  },
-  {
-    "revision": "4b21cad4339f8ea6279be4285548764b",
-    "url": "osu/.git/refs/heads/master"
-  },
-  {
-    "revision": "73a00957034783b7b5c8294c54cd3e12",
-    "url": "osu/.git/refs/remotes/origin/HEAD"
-  },
-  {
-    "revision": "c25976a1022ce6981b6e94a7a77c670f",
-    "url": "osu/.git/refs/remotes/upstream/iamapig120-master"
-  },
-  {
-    "revision": "eaafb980de5ba5197fa3790d5585658a",
-    "url": "osu/.git/refs/remotes/upstream/korean"
-  },
-  {
-    "revision": "847b14740c6fb444b43882414162b41d",
-    "url": "osu/.git/refs/remotes/upstream/legacy"
-  },
-  {
-    "revision": "4b21cad4339f8ea6279be4285548764b",
-    "url": "osu/.git/refs/remotes/upstream/master"
-  },
-  {
-    "revision": "2910c606faf5ea23d04ede1db54a2000",
-    "url": "osu/.gitignore"
-  },
-  {
-    "revision": "5dd413497aef4b2d7c7d6c36db66e3a7",
-    "url": "osu/.version"
-  },
-  {
     "revision": "fd08f11d3e390c8deb24359dc2fd39d8",
     "url": "osu/LICENSE"
   },
@@ -1588,7 +1448,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "osu/new.html"
   },
   {
-    "revision": "17abc78dbc67afc06a266d75d54556c6",
+    "revision": "83fd17d627a7f6409fe3892735a1a989",
     "url": "osu/preview.html"
   },
   {
@@ -1680,7 +1540,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "osu/scripts/launchgame.js"
   },
   {
-    "revision": "fee603a1c0a82653f18fc9cc42d6398b",
+    "revision": "dd8ca9059b53a50478f02d435f1492a8",
     "url": "osu/scripts/layouts/preview.js"
   },
   {

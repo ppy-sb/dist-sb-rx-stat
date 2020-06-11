@@ -49,7 +49,7 @@ function start() {
         window.game.backgroundDimRate = 50 / 100;
         window.game.backgroundBlurRate = 5 / 100;
         window.game.autoplay = true;
-        window.game.masterVolume = 10 / 100;
+        window.game.masterVolume = 30 / 100;
         window.game.previewMode = true;
         launchGame(window.oszblob, bid, version);
         // function wtf(){
