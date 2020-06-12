@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.7a8b322278c76c084d913b8ca0567913.js"
+  "precache-manifest.f2790f82896cd806099b3680deb2476f.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "vue-argon-design-system"});
+workbox.core.setCacheNameDetails({prefix: "sb-spa"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
