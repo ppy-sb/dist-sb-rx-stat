@@ -23,9 +23,4 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Copy file
-      uses: canastro/copy-action@0.0.2
-      with:
-        # Source file
-        source: index.html
-        # Target file
-        target: 404.html
+      run: cp ./index.html ./404.html
