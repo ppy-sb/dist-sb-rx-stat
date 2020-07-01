@@ -24,5 +24,12 @@ jobs:
 
     - name: Copy file
       run: cp ./index.html ./404.html
-    - name: commit files
-      run: git commit -m "Auto deploy 404.html"
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v4
+      with:
+        author_name: arily
+        author_email: lbsaaaaa@gmail.com
+        message: "auto deploy 404.html"
+        add: "*"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
