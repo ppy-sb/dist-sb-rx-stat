@@ -24,3 +24,5 @@ jobs:
 
     - name: Copy file
       run: cp ./index.html ./404.html
+    - name: commit files
+      run: git commit -m "Auto deploy 404.html"
