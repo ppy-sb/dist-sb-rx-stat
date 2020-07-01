@@ -2045,18 +2045,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "0aa1adb4dc4867d76b7669b32091c250",
-    "url": "/wiki/shared/catch.png"
+    "url": "/wiki/shared/mode/catch.png"
   },
   {
     "revision": "547c43b5446045e27af8ffae825cc2bb",
-    "url": "/wiki/shared/mania.png"
+    "url": "/wiki/shared/mode/mania.png"
   },
   {
     "revision": "387119d7d69cfa1ce72df6481136656f",
-    "url": "/wiki/shared/osu.png"
+    "url": "/wiki/shared/mode/osu.png"
   },
   {
     "revision": "cb7ec9cadacbb7a96a78e6ece09959e8",
-    "url": "/wiki/shared/taiko.png"
+    "url": "/wiki/shared/mode/taiko.png"
   }
 ]);
