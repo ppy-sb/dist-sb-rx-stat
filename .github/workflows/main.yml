@@ -26,6 +26,6 @@ jobs:
       uses: canastro/copy-action@0.0.2
       with:
         # Source file
-        source: /index.html
+        source: index.html
         # Target file
-        target: /404.html
+        target: 404.html
