@@ -1000,7 +1000,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/flags/zw.svg"
   },
   {
-    "revision": "2eee37db7ae907e81367",
+    "revision": "5ceb34416729460db44f",
     "url": "/css/app.665480fa.css"
   },
   {
@@ -1244,12 +1244,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/theme/team-4-800x800.jpg"
   },
   {
-    "revision": "f0892ec70bbd605a31b2f4ddc67af0a4",
+    "revision": "3456a524b11478b64ae066ee171ca59a",
     "url": "/index.html"
   },
   {
-    "revision": "2eee37db7ae907e81367",
-    "url": "/js/app.f403922c.js"
+    "revision": "5ceb34416729460db44f",
+    "url": "/js/app.2554730b.js"
   },
   {
     "revision": "1bc865748bc74a442219",
@@ -2042,5 +2042,21 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "625f426bd5ac32772350c8806fa188ca",
     "url": "/static/emotes/peppyfiero.png"
+  },
+  {
+    "revision": "0aa1adb4dc4867d76b7669b32091c250",
+    "url": "/wiki/shared/catch.png"
+  },
+  {
+    "revision": "547c43b5446045e27af8ffae825cc2bb",
+    "url": "/wiki/shared/mania.png"
+  },
+  {
+    "revision": "387119d7d69cfa1ce72df6481136656f",
+    "url": "/wiki/shared/osu.png"
+  },
+  {
+    "revision": "cb7ec9cadacbb7a96a78e6ece09959e8",
+    "url": "/wiki/shared/taiko.png"
   }
 ]);
