@@ -1000,7 +1000,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/flags/zw.svg"
   },
   {
-    "revision": "512da42888527b5ab382",
+    "revision": "f96bea1de7e543127613",
     "url": "/css/app.665480fa.css"
   },
   {
@@ -1016,7 +1016,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/moment.a2667d6c.css"
   },
   {
-    "revision": "0f2edcfbc9a305fca1f0",
+    "revision": "cb06085321d6157ef432",
     "url": "/css/user.e512e21e.css"
   },
   {
@@ -1244,12 +1244,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/theme/team-4-800x800.jpg"
   },
   {
-    "revision": "b2b857eb40db4faa5affc15b7c2e9f06",
+    "revision": "ff50a00a3a0767df12c263f8e01c5011",
     "url": "/index.html"
   },
   {
-    "revision": "512da42888527b5ab382",
-    "url": "/js/app.e77bedc6.js"
+    "revision": "f96bea1de7e543127613",
+    "url": "/js/app.a604ef89.js"
   },
   {
     "revision": "ad674913b46b37a438c8",
@@ -1268,8 +1268,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/toaster.755af42a.js"
   },
   {
-    "revision": "0f2edcfbc9a305fca1f0",
-    "url": "/js/user.44c208cb.js"
+    "revision": "cb06085321d6157ef432",
+    "url": "/js/user.b3f79083.js"
   },
   {
     "revision": "7fa69c822a07687ca655a15c1a342b6e",
